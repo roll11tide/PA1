@@ -1,0 +1,13 @@
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\obj\Debug\netcoreapp3.1\PA.csprojAssemblyReference.cache
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\obj\Debug\netcoreapp3.1\PA.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\obj\Debug\netcoreapp3.1\PA.AssemblyInfoInputs.cache
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\obj\Debug\netcoreapp3.1\PA.AssemblyInfo.cs
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\bin\Debug\netcoreapp3.1\PA.exe
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\bin\Debug\netcoreapp3.1\PA.deps.json
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\bin\Debug\netcoreapp3.1\PA.runtimeconfig.json
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\bin\Debug\netcoreapp3.1\PA.runtimeconfig.dev.json
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\bin\Debug\netcoreapp3.1\PA.dll
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\bin\Debug\netcoreapp3.1\PA.pdb
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\obj\Debug\netcoreapp3.1\PA.dll
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\obj\Debug\netcoreapp3.1\PA.pdb
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA\obj\Debug\netcoreapp3.1\PA.genruntimeconfig.cache
